@@ -28,4 +28,4 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<username>/FlappyBird.git
+git clone https://github.com/Anuj-2770/FlappyBird.git
